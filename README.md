@@ -27,7 +27,7 @@
 <a href="https://ibb.co.com/99Ff90WB"><img src="https://i.ibb.co.com/1fDpfNTB/hasil1.jpg" alt="hasil1" border="0"></a>
 
 ## Cara Menjalankan
-1. Clone repo  : git clone [url-repo-kamu]
+1. Clone repo  : git clone [https://github.com/aziiahimsyak1902/Build-ShopList-App/tree/main]
 2. Install deps: npm install
 3. Jalankan    : npx expo start
 4. Scan QR Code dengan Expo Go di HP
